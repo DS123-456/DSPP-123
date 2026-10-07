@@ -1,7 +1,6 @@
 # Portfolio
 
 ## About Me
-
 I am an experienced data and analytics professional currently developing
 my data science capabilities through postgraduate study.
  
@@ -10,7 +9,6 @@ technical skills, focusing on producing solutions that are accurate,
 transparent and useful to decision-makers.
 
 ## Areas of Interest
- 
 - Exploratory Data Analysis
 - Data Quality and Preparation
 - Statistical Modelling
@@ -20,7 +18,6 @@ transparent and useful to decision-makers.
 - Responsible and Explainable Data Science
  
 ## Tools and Technologies
- 
 - Alteryx
 - Power BI
 - Azure Data Factory
