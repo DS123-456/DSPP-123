@@ -1,5 +1,3 @@
-# Portfolio
-
 ## About Me
 I am an experienced data and analytics professional currently developing
 my data science capabilities through postgraduate study.
@@ -16,6 +14,7 @@ transparent and useful to decision-makers.
 - Impact Evaluation
 - Data Visualisation
 - Responsible and Explainable Data Science
+
  
 ## Tools and Technologies
 - Alteryx
