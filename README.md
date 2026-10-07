@@ -1,22 +1,24 @@
 # Portfolio
 
 ## Areas of Interest
-<p>- Exploratory Data Analysis<br>
-<p>- Data Quality and Preparation<br>
-<p>- Statistical Modelling<br>
-<p>- Predictive Analytics<br>
-<p>- Impact Evaluation<br>
-<p>- Data Visualisation<br>
-<p>- Responsible and Explainable Data Science</p>
-
+ 
+- Exploratory Data Analysis
+- Data Quality and Preparation
+- Statistical Modelling
+- Predictive Analytics
+- Impact Evaluation
+- Data Visualisation
+- Responsible and Explainable Data Science
+ 
 ## Tools and Technologies
-<p>- Alteryx<br>
-<p>- Power BI<br>
-<p>- Azure Data Factory<br>
-<p>- Excel<br>
-<p>- Tableau<br>
-<p>- Salesforce<br>
-<p>- Python, beginner level</p>
+ 
+- Alteryx
+- Power BI
+- Azure Data Factory
+- Excel
+- Tableau
+- Salesforce
+- Python, beginner level
 
 ## Project
 
