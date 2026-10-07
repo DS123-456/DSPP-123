@@ -1,5 +1,14 @@
 # Portfolio
 
+## About Me
+ 
+I am an experienced data and analytics professional currently developing
+my data science capabilities through postgraduate study.
+ 
+My approach combines established analytical experience with developing
+technical skills, focusing on producing solutions that are accurate,
+transparent and useful to decision-makers.
+
 ## Areas of Interest
  
 - Exploratory Data Analysis
