@@ -15,7 +15,6 @@ transparent and useful to decision-makers.
 - Data Visualisation
 - Responsible and Explainable Data Science
 
- 
 ## Tools and Technologies
 - Alteryx
 - Power BI
