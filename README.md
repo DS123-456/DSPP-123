@@ -1,7 +1,6 @@
 # Portfolio
 
 ## Areas of Interest
- 
 <p>- Exploratory Data Analysis<br>
 <p>- Data Quality and Preparation<br>
 <p>- Statistical Modelling<br>
