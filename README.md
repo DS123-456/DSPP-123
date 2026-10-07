@@ -9,6 +9,14 @@
 <p>- Data Visualisation<br>
 <p>- Responsible and Explainable Data Science</p>
 
+## Tools and Technologies
+<p>- Alteryx<br>
+<p>- Power BI<br>
+<p>- Azure Data Factory<br>
+<p>- Excel<br>
+<p>- Tableau<br>
+<p>- Salesforce<br>
+<p>- Python, beginner level</p>
 
 ## Project
 
