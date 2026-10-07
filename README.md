@@ -26,6 +26,6 @@ transparent and useful to decision-makers.
 
 ## Project
 
-Link to project here [project](https://github.com/DS123-456/Data-science-project)
+[Can Kickstarter Success Be Predicted at Launch?](https://github.com/DS123-456/Data-science-project)
 
 ![Kickstarter Project image](/images/Project image.jpg)
