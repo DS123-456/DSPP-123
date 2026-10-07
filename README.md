@@ -28,4 +28,6 @@ transparent and useful to decision-makers.
 
 [Can Kickstarter Success Be Predicted at Launch?](https://github.com/DS123-456/Data-science-project)
 
+Predicting Kickstarter campaign success at launch using logistic regression and interpretable campaign features.
+
 ![Kickstarter Project image](/images/Project image.jpg)
