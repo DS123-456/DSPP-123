@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About Me
- 
+
 I am an experienced data and analytics professional currently developing
 my data science capabilities through postgraduate study.
  
