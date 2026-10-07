@@ -28,4 +28,4 @@ transparent and useful to decision-makers.
 
 Link to project here [project](https://github.com/DS123-456/Data-science-project)
 
-![Histogram](/images/histogram-example-2.png)
+![Kickstarter Project image](/images/Project image.jpg)
