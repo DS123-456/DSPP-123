@@ -1,5 +1,4 @@
 # Portfolio
-==
 
 ## About Me
 I am an experienced data and analytics professional currently developing
