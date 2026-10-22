@@ -29,4 +29,4 @@ transparent and useful to decision-makers.
 
 Predicting Kickstarter campaign success at launch using logistic regression and interpretable campaign features.
 
-![Kickstarter Project image](/images/Project image.jpg)
+![Kickstarter Project image](/images/Project_image.jpg)
